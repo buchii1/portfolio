@@ -20,7 +20,7 @@ export default function Header() {
 					</h5>
 					<p className="mb-6 text-gray-600 font-light leading-relaxed">
 						I'm a passionate and hardworking software developer from Nigeria who
-						is working towards a B.Sc. in Applied Technology. I'm highly
+						is working towards a B.Sc. Computer Science. I'm highly
 						interested in backend technologies and building APIs. My main focus
 						these days is web development (mostly Django, Django rest framework,
 						CSS, Javascript).
