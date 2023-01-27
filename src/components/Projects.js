@@ -26,7 +26,7 @@ const projects = [
     tags: ["portfolio", "React.js", "TailwindCSS"],
     title: "My Portfolio",
     desc: "My personal website built with React.js and TailwindCSS",
-    github: "https://github.com/earthcomfy/portfolio",
+    github: "https://github.com/zobaa0/portfolio",
   },
 ];
 

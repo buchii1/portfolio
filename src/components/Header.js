@@ -1,4 +1,4 @@
-// import resume from "../assets/resume.pdf";
+import resume from "../assets/resume.pdf";
 import { FaDownload } from "react-icons/fa";
 
 const skills = [
@@ -20,7 +20,7 @@ export default function Header() {
 					</h5>
 					<p className="mb-6 text-gray-600 font-light leading-relaxed">
 						I'm a passionate and hardworking software developer from Nigeria who
-						is working towards a B.Sc. in Computer Science. I'm highly
+						is working towards a B.Sc. in Applied Technology. I'm highly
 						interested in backend technologies and building APIs. My main focus
 						these days is web development (mostly Django, Django rest framework,
 						CSS, Javascript).
@@ -43,14 +43,14 @@ export default function Header() {
 					</div>
 					<hr className="mb-5 border-gray-300" />
 					<div>
-						{/* <a
+						<a
 							href={resume}
 							download
 							class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-light py-2 px-4 rounded-full inline-flex items-center"
 						>
 							<FaDownload />
 							<span className="ml-2">Download Resume</span>
-						</a> */}
+						</a>
 					</div>
 				</div>
 				<div>
