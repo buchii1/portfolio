@@ -49,7 +49,7 @@ export default function Header() {
 							class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-light py-2 px-4 rounded-full inline-flex items-center"
 						>
 							<FaDownload />
-							<span className="ml-2">Download Resume</span>
+							{/* <span className="ml-2">Download Resume</span> */}
 						</a>
 					</div>
 				</div>
