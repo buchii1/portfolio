@@ -5,7 +5,7 @@ const services = [
   {
     icon: <HiOutlineAdjustments className="text-4xl mx-auto inline-block" />,
     title: "RESTful API",
-    desc: "I devlop well structured RESTful APIs using Python, Django",
+    desc: "I develop well structured RESTful APIs using Python, Django",
   },
   {
     icon: <FaCode className="text-4xl mx-auto inline-block" />,
