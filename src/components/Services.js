@@ -5,12 +5,12 @@ const services = [
   {
     icon: <HiOutlineAdjustments className="text-4xl mx-auto inline-block" />,
     title: "RESTful API",
-    desc: "I develop well structured RESTful APIs using Python, Django",
+    desc: "I develop and document well structured RESTful APIs using Python, Django, Node.js",
   },
   {
     icon: <FaCode className="text-4xl mx-auto inline-block" />,
     title: "Web Application",
-    desc: "I develop and deliver modern web applications using vanilla js, html, and css frameworks",
+    desc: "I develop and deliver modern web applications and SPAs using vanilla js, html, and css frameworks, react.js and next.js",
   },
   {
     icon: <FaPen className="text-4xl mx-auto inline-block" />,
