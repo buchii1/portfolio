@@ -4,10 +4,14 @@ import { FaDownload } from "react-icons/fa";
 const skills = [
 	"Python",
 	"Django",
+	"Node.js",
+	"PHP",
+	"C#",
+	"React.js",
+	"Next.js",
 	"JavaScript",
 	"PostgreSQL",
 	"Tailwind CSS",
-	"Bootstrap CSS",
 ];
 
 export default function Header() {
@@ -20,10 +24,10 @@ export default function Header() {
 					</h5>
 					<p className="mb-6 text-gray-600 font-light leading-relaxed">
 						I'm a passionate and hardworking software developer from Nigeria who
-						is working towards a B.Sc. in Software Development. I'm highly
-						interested in backend technologies and building APIs. My main focus
-						these days is web development (mostly Django, Django rest framework,
-						CSS, Javascript).
+						is working towards a Bachelors of Science Degree in Software Development. I'm highly
+						interested in software development and building APIs. My main focus
+						these days is web development and Artificial Intelligence.
+						{/* (mostly Django, Django rest framework, CSS, Javascript). */}
 					</p>
 					<hr className="mb-5 border-gray-300" />
 					<h5 className="mb-4 text-xl font-light text-gray-600">
@@ -44,7 +48,7 @@ export default function Header() {
 					<hr className="mb-5 border-gray-300" />
 					<div>
 						<a
-							href={buchii-resume}
+							href={resume}
 							download
 							class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-light py-2 px-4 rounded-full inline-flex items-center"
 						>
