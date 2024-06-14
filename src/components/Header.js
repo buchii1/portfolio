@@ -47,14 +47,14 @@ export default function Header() {
 					</div>
 					<hr className="mb-5 border-gray-300" />
 					<div>
-						/* <a
+						{/* <a
 							href={resume}
 							download
 							class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-light py-2 px-4 rounded-full inline-flex items-center"
 						>
 							<FaDownload />
 							<span className="ml-2">Download Resume</span>
-						</a> */
+						</a> */}
 					</div>
 				</div>
 				<div>
